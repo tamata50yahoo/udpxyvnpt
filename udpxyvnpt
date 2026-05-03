@@ -61,55 +61,55 @@ http://192.168.56.171:20113/rtp/232.84.3.252:11434
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://tv.ddns.vn/logo/vtv8hd.png",VTV8 (HD 8.5Mbps)
 http://192.168.56.171:20113/rtp/232.84.2.34:10612
 #------------------------Thiết Yếu------------------------#
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://tv.ddns.vn/logo/qpvnhd.png",QPVN (HD 7.5Mbps)
+#EXTINF:0 tvg-id="qpvnhd" group-title="VTV" tvg-logo="https://tv.ddns.vn/logo/qpvnhd.png",QPVN (HD 7.5Mbps)
 http://192.168.56.171:20113/rtp/232.84.3.127:10816
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://tv.ddns.vn/logo/qpvnhd.png",QPVN
+#EXTINF:0 tvg-id="qpvnhd" group-title="VTV" tvg-logo="https://tv.ddns.vn/logo/qpvnhd.png",QPVN
 http://192.168.56.171:20113/rtp/232.84.1.228:9342
-#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://tv.ddns.vn/logo/antvhd.png",ANTV
+#EXTINF:0 tvg-id="antvhd" group-title="VTV" tvg-logo="https://tv.ddns.vn/logo/antvhd.png",ANTV
 http://192.168.56.171:20113/rtp/232.84.1.212:9246
 
 # ---------- Kênh SCTV ----------
-#EXTINF:-1 tvg-id="mytv_769" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/52/20/05/5a/aa/ad/5205a-psctv1knhhi-channel-unkn.png" group-title="Kênh SCTV", SCTV1
+#EXTINF:-1 tvg-id="mytv_769" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/52/20/05/5a/aa/ad/5205a-psctv1knhhi-channel-unkn.png" group-title="SCTV", SCTV1
 https://ttv.hainghia.net/mytv/tv.php?id=769
-#EXTINF:-1 tvg-id="mytv_772" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/28/84/49/9f/f6/68/2849f-psctv2amc-channel-unkn.png" group-title="Kênh SCTV", SCTV2
+#EXTINF:-1 tvg-id="mytv_772" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/28/84/49/9f/f6/68/2849f-psctv2amc-channel-unkn.png" group-title="SCTV", SCTV2
 https://ttv.hainghia.net/mytv/tv.php?id=772
-#EXTINF:-1 tvg-id="mytv_775" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/28/86/68/8c/c8/8d/2868c-psctv3seetv-channel-unkn.png" group-title="Kênh SCTV", SCTV3
+#EXTINF:-1 tvg-id="mytv_775" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/28/86/68/8c/c8/8d/2868c-psctv3seetv-channel-unkn.png" group-title="SCTV", SCTV3
 https://ttv.hainghia.net/mytv/tv.php?id=775
-#EXTINF:-1 tvg-id="mytv_778" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/d5/53/34/4b/b2/2a/d534b-psctv4tnghplestviet-channel-unkn.png" group-title="Kênh SCTV", SCTV4
+#EXTINF:-1 tvg-id="mytv_778" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/d5/53/34/4b/b2/2a/d534b-psctv4tnghplestviet-channel-unkn.png" group-title="SCTV", SCTV4
 https://ttv.hainghia.net/mytv/tv.php?id=778
-#EXTINF:-1 tvg-id="mytv_781" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/32/27/7b/b4/41/12/327b4-psctv6sngnhc-channel-unkn.png" group-title="Kênh SCTV", SCTV6
+#EXTINF:-1 tvg-id="mytv_781" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/32/27/7b/b4/41/12/327b4-psctv6sngnhc-channel-unkn.png" group-title="SCTV", SCTV6
 https://ttv.hainghia.net/mytv/tv.php?id=781
-#EXTINF:-1 tvg-id="mytv_784" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/0b/b7/70/0a/a8/85/0b70a-psctv7snkhuvnnghtnghp-channel-unkn.png" group-title="Kênh SCTV", SCTV7
+#EXTINF:-1 tvg-id="mytv_784" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/0b/b7/70/0a/a8/85/0b70a-psctv7snkhuvnnghtnghp-channel-unkn.png" group-title="SCTV", SCTV7
 https://ttv.hainghia.net/mytv/tv.php?id=784
-#EXTINF:-1 tvg-id="mytv_787" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/6a/a5/5b/bc/c3/3e/6a5bc-psctv8vitv-channel-unkn.png" group-title="Kênh SCTV", SCTV8
+#EXTINF:-1 tvg-id="mytv_787" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/6a/a5/5b/bc/c3/3e/6a5bc-psctv8vitv-channel-unkn.png" group-title="SCTV", SCTV8
 https://ttv.hainghia.net/mytv/tv.php?id=787
-#EXTINF:-1 tvg-id="mytv_790" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/b1/16/63/3d/d1/14/b163d-psctv9phimchu-channel-unkn.png" group-title="Kênh SCTV", SCTV9
+#EXTINF:-1 tvg-id="mytv_790" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/b1/16/63/3d/d1/14/b163d-psctv9phimchu-channel-unkn.png" group-title="SCTV", SCTV9
 https://ttv.hainghia.net/mytv/tv.php?id=790
-#EXTINF:-1 tvg-id="mytv_793" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/34/4e/ec/c9/9f/f2/34ec9-psctv11tvstar-channel-unkn.png" group-title="Kênh SCTV", SCTV11
+#EXTINF:-1 tvg-id="mytv_793" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/34/4e/ec/c9/9f/f2/34ec9-psctv11tvstar-channel-unkn.png" group-title="SCTV", SCTV11
 https://ttv.hainghia.net/mytv/tv.php?id=793
-#EXTINF:-1 tvg-id="mytv_796" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/93/38/8d/da/a2/2c/938da-psctv12dulch-channel-unkn.png" group-title="Kênh SCTV", SCTV12
+#EXTINF:-1 tvg-id="mytv_796" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/93/38/8d/da/a2/2c/938da-psctv12dulch-channel-unkn.png" group-title="SCTV", SCTV12
 https://ttv.hainghia.net/mytv/tv.php?id=796
-#EXTINF:-1 tvg-id="mytv_799" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/e3/32/20/0b/bc/c3/e320b-psctv13ladytv-channel-unkn.png" group-title="Kênh SCTV", SCTV13
+#EXTINF:-1 tvg-id="mytv_799" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/e3/32/20/0b/bc/c3/e320b-psctv13ladytv-channel-unkn.png" group-title="SCTV", SCTV13
 https://ttv.hainghia.net/mytv/tv.php?id=799
-#EXTINF:-1 tvg-id="mytv_802" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/38/8e/e8/8a/ac/c6/38e8a-psctv14phimvitnam-channel-unkn.png" group-title="Kênh SCTV", SCTV14
+#EXTINF:-1 tvg-id="mytv_802" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/38/8e/e8/8a/ac/c6/38e8a-psctv14phimvitnam-channel-unkn.png" group-title="SCTV", SCTV14
 https://ttv.hainghia.net/mytv/tv.php?id=802
-#EXTINF:-1 tvg-id="mytv_805" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/e2/2b/b9/90/05/54/e2b90-psctv16-channel-unkn.png" group-title="Kênh SCTV", SCTV16
+#EXTINF:-1 tvg-id="mytv_805" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/e2/2b/b9/90/05/54/e2b90-psctv16-channel-unkn.png" group-title="SCTV", SCTV16
 https://ttv.hainghia.net/mytv/tv.php?id=805
-#EXTINF:-1 tvg-id="mytv_808" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/73/39/96/6a/a3/36/7396a-psctv18phim-channel-unkn.png" group-title="Kênh SCTV", SCTV18
+#EXTINF:-1 tvg-id="mytv_808" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/73/39/96/6a/a3/36/7396a-psctv18phim-channel-unkn.png" group-title="SCTV", SCTV18
 https://ttv.hainghia.net/mytv/tv.php?id=808
-#EXTINF:-1 tvg-id="mytv_811" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/05/50/07/74/46/61/05074-psctv19channelt-channel-unkn.png" group-title="Kênh SCTV", SCTV19
+#EXTINF:-1 tvg-id="mytv_811" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/05/50/07/74/46/61/05074-psctv19channelt-channel-unkn.png" group-title="SCTV", SCTV19
 https://ttv.hainghia.net/mytv/tv.php?id=811
-#EXTINF:-1 tvg-id="mytv_814" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/36/6e/e9/97/79/91/36e97-psctv20itv-channel-unkn.png" group-title="Kênh SCTV", SCTV20
+#EXTINF:-1 tvg-id="mytv_814" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/36/6e/e9/97/79/91/36e97-psctv20itv-channel-unkn.png" group-title="SCTV", SCTV20
 https://ttv.hainghia.net/mytv/tv.php?id=814
-#EXTINF:-1 tvg-id="mytv_817" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/8d/de/ee/e3/3e/e7/8dee3-psctv21-channel-unkn.png" group-title="Kênh SCTV", SCTV21
+#EXTINF:-1 tvg-id="mytv_817" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/8d/de/ee/e3/3e/e7/8dee3-psctv21-channel-unkn.png" group-title="SCTV", SCTV21
 https://ttv.hainghia.net/mytv/tv.php?id=817
-#EXTINF:-1 tvg-id="mytv_823" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/c5/52/26/64/4d/d2/c5264-psctv15ssportt2-channel-unkn.png" group-title="Kênh SCTV", SCTV15 - SSportT2
+#EXTINF:-1 tvg-id="mytv_823" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/c5/52/26/64/4d/d2/c5264-psctv15ssportt2-channel-unkn.png" group-title="SCTV", SCTV15 - SSportT2
 https://ttv.hainghia.net/mytv/tv.php?id=823
-#EXTINF:-1 tvg-id="mytv_826" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/db/bd/dd/dd/dc/cc/dbddd-psctv17ssport-channel-unkn.png" group-title="Kênh SCTV", SCTV17 - Ssport
+#EXTINF:-1 tvg-id="mytv_826" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/db/bd/dd/dd/dc/cc/dbddd-psctv17ssport-channel-unkn.png" group-title="SCTV", SCTV17 - Ssport
 https://ttv.hainghia.net/mytv/tv.php?id=826
-#EXTINF:-1 tvg-id="mytv_829" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png" group-title="Kênh SCTV", SCTV 22 - SSportT1
+#EXTINF:-1 tvg-id="mytv_829" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png" group-title="SCTV", SCTV 22 - SSportT1
 https://ttv.hainghia.net/mytv/tv.php?id=829
-#EXTINF:-1 tvg-id="mytv_766" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" group-title="Kênh SCTV", SCTV - Phim Tổng hợp
+#EXTINF:-1 tvg-id="mytv_766" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" group-title="SCTV", SCTV - Phim Tổng hợp
 https://ttv.hainghia.net/mytv/tv.php?id=766
 
 #------------------------HTV/HTVC------------------------#
