@@ -68,69 +68,50 @@ http://192.168.56.171:20113/rtp/232.84.1.228:9342
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://tv.ddns.vn/logo/antvhd.png",ANTV
 http://192.168.56.171:20113/rtp/232.84.1.212:9246
 
-#------------------------5.3 SCTV APP------------------------#
+# ---------- Kênh SCTV ----------
+#EXTINF:-1 tvg-id="mytv_769" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/52/20/05/5a/aa/ad/5205a-psctv1knhhi-channel-unkn.png" group-title="Kênh SCTV", SCTV1
+https://ttv.hainghia.net/mytv/tv.php?id=769
+#EXTINF:-1 tvg-id="mytv_772" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/28/84/49/9f/f6/68/2849f-psctv2amc-channel-unkn.png" group-title="Kênh SCTV", SCTV2
+https://ttv.hainghia.net/mytv/tv.php?id=772
+#EXTINF:-1 tvg-id="mytv_775" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/28/86/68/8c/c8/8d/2868c-psctv3seetv-channel-unkn.png" group-title="Kênh SCTV", SCTV3
+https://ttv.hainghia.net/mytv/tv.php?id=775
+#EXTINF:-1 tvg-id="mytv_778" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/d5/53/34/4b/b2/2a/d534b-psctv4tnghplestviet-channel-unkn.png" group-title="Kênh SCTV", SCTV4
+https://ttv.hainghia.net/mytv/tv.php?id=778
+#EXTINF:-1 tvg-id="mytv_781" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/32/27/7b/b4/41/12/327b4-psctv6sngnhc-channel-unkn.png" group-title="Kênh SCTV", SCTV6
+https://ttv.hainghia.net/mytv/tv.php?id=781
+#EXTINF:-1 tvg-id="mytv_784" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/0b/b7/70/0a/a8/85/0b70a-psctv7snkhuvnnghtnghp-channel-unkn.png" group-title="Kênh SCTV", SCTV7
+https://ttv.hainghia.net/mytv/tv.php?id=784
+#EXTINF:-1 tvg-id="mytv_787" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/6a/a5/5b/bc/c3/3e/6a5bc-psctv8vitv-channel-unkn.png" group-title="Kênh SCTV", SCTV8
+https://ttv.hainghia.net/mytv/tv.php?id=787
+#EXTINF:-1 tvg-id="mytv_790" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/b1/16/63/3d/d1/14/b163d-psctv9phimchu-channel-unkn.png" group-title="Kênh SCTV", SCTV9
+https://ttv.hainghia.net/mytv/tv.php?id=790
+#EXTINF:-1 tvg-id="mytv_793" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/34/4e/ec/c9/9f/f2/34ec9-psctv11tvstar-channel-unkn.png" group-title="Kênh SCTV", SCTV11
+https://ttv.hainghia.net/mytv/tv.php?id=793
+#EXTINF:-1 tvg-id="mytv_796" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/93/38/8d/da/a2/2c/938da-psctv12dulch-channel-unkn.png" group-title="Kênh SCTV", SCTV12
+https://ttv.hainghia.net/mytv/tv.php?id=796
+#EXTINF:-1 tvg-id="mytv_799" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/e3/32/20/0b/bc/c3/e320b-psctv13ladytv-channel-unkn.png" group-title="Kênh SCTV", SCTV13
+https://ttv.hainghia.net/mytv/tv.php?id=799
+#EXTINF:-1 tvg-id="mytv_802" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/38/8e/e8/8a/ac/c6/38e8a-psctv14phimvitnam-channel-unkn.png" group-title="Kênh SCTV", SCTV14
+https://ttv.hainghia.net/mytv/tv.php?id=802
+#EXTINF:-1 tvg-id="mytv_805" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/e2/2b/b9/90/05/54/e2b90-psctv16-channel-unkn.png" group-title="Kênh SCTV", SCTV16
+https://ttv.hainghia.net/mytv/tv.php?id=805
+#EXTINF:-1 tvg-id="mytv_808" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/73/39/96/6a/a3/36/7396a-psctv18phim-channel-unkn.png" group-title="Kênh SCTV", SCTV18
+https://ttv.hainghia.net/mytv/tv.php?id=808
+#EXTINF:-1 tvg-id="mytv_811" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/05/50/07/74/46/61/05074-psctv19channelt-channel-unkn.png" group-title="Kênh SCTV", SCTV19
+https://ttv.hainghia.net/mytv/tv.php?id=811
+#EXTINF:-1 tvg-id="mytv_814" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/36/6e/e9/97/79/91/36e97-psctv20itv-channel-unkn.png" group-title="Kênh SCTV", SCTV20
+https://ttv.hainghia.net/mytv/tv.php?id=814
+#EXTINF:-1 tvg-id="mytv_817" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/8d/de/ee/e3/3e/e7/8dee3-psctv21-channel-unkn.png" group-title="Kênh SCTV", SCTV21
+https://ttv.hainghia.net/mytv/tv.php?id=817
+#EXTINF:-1 tvg-id="mytv_823" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/c5/52/26/64/4d/d2/c5264-psctv15ssportt2-channel-unkn.png" group-title="Kênh SCTV", SCTV15 - SSportT2
+https://ttv.hainghia.net/mytv/tv.php?id=823
+#EXTINF:-1 tvg-id="mytv_826" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/db/bd/dd/dd/dc/cc/dbddd-psctv17ssport-channel-unkn.png" group-title="Kênh SCTV", SCTV17 - Ssport
+https://ttv.hainghia.net/mytv/tv.php?id=826
+#EXTINF:-1 tvg-id="mytv_829" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png" group-title="Kênh SCTV", SCTV 22 - SSportT1
+https://ttv.hainghia.net/mytv/tv.php?id=829
+#EXTINF:-1 tvg-id="mytv_766" tvg-logo="https://s73229.cdn.mytvnet.vn/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" group-title="Kênh SCTV", SCTV - Phim Tổng hợp
+https://ttv.hainghia.net/mytv/tv.php?id=766
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg",SCTV1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/23/09/1753236497766/f76b7bf7b94c_640_360.png",SCTV2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
-
-#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg",SCTV3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV3/01.m3u8
-
-#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg",SCTV4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg",SCTV6 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV6/03.m3u8
-#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/66/SCTV7.jpg",SCTV7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV7/01.m3u8
-#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/SCTV8.jpg",SCTV8 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV8/01.m3u8
-
-#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg",SCTV11 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV11/01.m3u8
-#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SCTV12.jpg",SCTV12 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
-#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/SCTV13.jpg",SCTV13 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
-
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg",SCTV14 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
-
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg",SCTV16 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
-
-#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg",SCTV18 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SCTV19.jpg",SCTV19 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
-#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/SCTV20.jpg",SCTV20 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
-#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV21.jpg",SCTV21 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg",SCTV22 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
-
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg",SCTV PTH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 #------------------------HTV/HTVC------------------------#
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://tv.ddns.vn/logo/htv1.png",HTV1 (HD 6Mbps)
 http://192.168.56.171:20113/rtp/232.84.3.57:11710
